@@ -1,7 +1,7 @@
 # Sivia Semiconductor — Official Website
 
 > **"Intelligent Hardware. Reliable Systems."**  
-> A deep-tech, fabless semiconductor IP startup incubated at **VIT Technology Business Incubator (VIT-TBI)**, Vellore, India.
+> A deep-tech, fabless semiconductor IP startup developing synthesizable hardware architectures for fault-aware computing.
 
 ---
 
@@ -9,10 +9,10 @@
 
 This repository contains the official website for **Sivia Semiconductor**, structured as an elegant, minimalist **About Page** tailored for an early-stage deep-tech startup.
 
-The site is designed with a **clean white theme**, featuring executive typography, authentic startup profile information, and incubation credentials without any premature claims, artificial work deliverables, or synthetic graphs.
+The site is designed with a **clean white theme**, featuring executive typography, authentic startup profile information, and architectural focus without any premature claims, artificial work deliverables, or synthetic graphs.
 
 - **Target Domain:** `sivia-semiconductor.in`
-- **Incubation Hub:** VIT Technology Business Incubator (VIT-TBI), Vellore, India
+- **Location:** India
 - **Sector:** Fabless Semiconductor IP / Fault-Aware Computing
 
 ---
@@ -55,17 +55,17 @@ SIVIA/
 
 1. **Header & Navigation:**
    - Dark navy brand logo on pristine white background.
-   - Smooth navigation links (`About Us`, `Mission & Vision`, `R&D Focus`, `Incubation`, `Contact`).
+   - Smooth navigation links (`About Us`, `Mission & Vision`, `R&D Focus`, `Overview`, `Contact`).
    - Direct download button for the official Startup Profile PDF.
 
 2. **Hero Section:**
-   - Incubation pill highlighting VIT-TBI Vellore.
+   - Deep-tech semiconductor startup badge.
    - Core startup thesis and clear value proposition.
    - Quick access to download the Executive Profile.
 
 3. **About Sivia Semiconductor:**
    - The fundamental reliability challenge in modern computing.
-   - Foundational pillars: Synthesizable & Fabless, Hardware-Speed Awareness, Academic Backing.
+   - Foundational pillars: Synthesizable & Fabless, Hardware-Speed Awareness, Deterministic Architecture.
 
 4. **Mission & Vision:**
    - Structured mission to engineer self-aware, fault-tolerant silicon.
@@ -76,12 +76,12 @@ SIVIA/
    - **Autonomous UAV & Avionics Reliability:** Anomaly monitoring for aerial flight computers.
    - **Resilient AI Memory Infrastructure:** Addressing read-disturb wear in 3D NAND & HBF.
 
-6. **Incubation & University Ecosystem:**
-   - Comprehensive overview of incubation at VIT-TBI Vellore.
+6. **Company Overview & Roadmap:**
+   - Architectural methodology, synthesis focus, and development stage.
    - Transparency note regarding early-stage research and simulation status.
    - Company snapshot table.
 
 7. **Contact & Inquiries:**
-   - Physical address at VIT-TBI, Vellore, Tamil Nadu.
+   - Location details (India).
    - Official contact email (`contact@sivia-semiconductor.in`).
    - Clean, lightweight inquiry form with instant client feedback.
